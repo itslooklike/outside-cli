@@ -19,7 +19,7 @@
   "keywords": ["weather", "forecast", "rain"],
   "license": "ISC",
   "main": "index.js",
-  "name": "outside-cli",
+  "name": "@itslooklike/outside-cli",
   "preferGlobal": true,
   "repository": {
     "type": "git",
