@@ -1,0 +1,32 @@
+{
+  "author": "",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "bugs": {
+    "url": "https://github.com/itslooklike/outside-cli/issues"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0"
+  },
+  "description": "A CLI app that gives you the weather forecast",
+  "engines": {
+    "node": ">=8"
+  },
+  "homepage": "https://github.com/itslooklike/outside-cli#readme",
+  "keywords": ["weather", "forecast", "rain"],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "outside-cli",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itslooklike/outside-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
